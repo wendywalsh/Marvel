@@ -8,7 +8,7 @@ Movie Analysis:
 We retrieved list of movies from https://www.statcrunch.com and plotted data using sums and means of box office sales to illustrate trends.  We also used the list of movies to query the OMDB API and obtain rating data from different sites in order to plot average ratings per movie.
 
 Comic Book Analysis:
-We downloaded 20 years of monthly comic book sales for Marvel, DC, and other comic brands from http://www.comichron.com/monthlycomicssales.htmla and used Python to call each file and perform analysis on the average comic books sold each year.  We illustrated this for both the top 30 comics sold in each month and also on the total commic books sold per year.  Using bar graphs, a pie chart, and regression analysis, we concluded that Marvel has consistently outperformed DC and this will continue.
+We downloaded 20 years of monthly comic book sales for Marvel, DC, and other comic brands from http://www.comichron.com/monthlycomicssales.html and used Python to call each file and perform analysis on the average comic books sold each year.  We illustrated this for both the top 30 comics sold in each month and also on the total commic books sold per year.  Using bar graphs, a pie chart, and regression analysis, we concluded that Marvel has consistently outperformed DC and this will continue.
 
 Twitter Analysis:
 Using Tweepy API, we retrieved the number of followers for both Marvel and DC to determine which is more popular on Twitter.  We also used the Vader Sentiment Analyzer to calculate and plot the polarity on  tweets for the recently released blockbusters Thor (Marvel) and Justice League (DC).
