@@ -1,4 +1,4 @@
-# Marvel vs DC Popularity Analysis README
+# Marvelous_Analysis README
 
 Team Members: Jiji Jacob, Alex Murray, Wendy Walsh, Ian Womack
 
@@ -21,8 +21,7 @@ Marvel is releasing movies at a much faster pace than DC.
 Marvel took the lead in 2000 (X-Men), DC regained lead in 2005 and 2008 ((Christopher Nolan Batman) 
 Both Marvel and DC see regular fluctuations in ratings, but Marvel tends to be more consistent
 Both companies have been in the comics business much longer than film (Marvel 1939, DC 1934).
-In total volume of comics sold, Marvel has the lead with a pvalue of 3.8. 
-In comic sales ($), rather than volume, there is only a pvalue of 0.005.
+Statistical analysis shows Marvel has slight edge over DC in comic book sales.
 Marvel has more than double the Twitter followers than DC.
 Justice League has more positive recent sentiment than Thor.
 
