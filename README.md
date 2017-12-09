@@ -14,16 +14,16 @@ Twitter Analysis:
 Using Tweepy API, we retrieved the number of followers for both Marvel and DC to determine which is more popular on Twitter.  We also used the Vader Sentiment Analyzer to calculate and plot the polarity on  tweets for the recently released blockbusters Thor (Marvel) and Justice League (DC).
 
 Observations:
-Marvel has been dominating DC in sales in recent years in both moves and comics. /
-Even with a massive head start in the film world, DC has fallen behind. /
-Marvel averages 194 Million sales per movie, while DC averages 134 Million. /
-Marvel is releasing movies at a much faster pace than DC. /
-Marvel took the lead in 2000 (X-Men), DC regained lead in 2005 and 2008 ((Christopher Nolan Batman). /
-Both Marvel and DC see regular fluctuations in ratings, but Marvel tends to be more consistent. /
-Both companies have been in the comics business much longer than film (Marvel 1939, DC 1934). /
-Statistical analysis shows Marvel has slight edge over DC in comic book sales. /
-Marvel has more than double the Twitter followers than DC. /
-Justice League has more positive recent sentiment than Thor.
+Marvel has been dominating DC in sales in recent years in both moves and comics. 
+Even with a massive head start in the film world, DC has fallen behind. 
+Marvel averages 194 Million sales per movie, while DC averages 134 Million. 
+Marvel is releasing movies at a much faster pace than DC. 
+Marvel took the lead in 2000 (X-Men), DC regained lead in 2005 and 2008 ((Christopher Nolan Batman). 
+Both Marvel and DC see regular fluctuations in ratings, but Marvel tends to be more consistent. 
+Both companies have been in the comics business much longer than film (Marvel 1939, DC 1934). 
+Statistical analysis shows Marvel has slight edge over DC in comic book sales. 
+Marvel has more than double the Twitter followers than DC. 
+Justice League has more positive recent Twitter sentiment than Thor.
 
 
 The Verdict:
